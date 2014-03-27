@@ -5,6 +5,8 @@ A collection of simple scripts that I wrote for TamperMonkey in Chrome (GreaseMo
 
 These are very simple scripts and usually don't do a big deal except removing some ad-like content on sites. But There is no easy way to sync these scripts across my browsers (Tampermonkey stores the scripts in database and doesn't sync them on cloud). So I put them up on Github.
 
+If you're installing any of these scripts, be warned that it may hide contents you may otherwise want to see!
+
 How To Install the Scripts
 ==========================
 
